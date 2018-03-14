@@ -7,6 +7,9 @@
 [Python编程：从入门到实践 高清完整.mobi版下载（适合Kindle用户使用）](http://oze8tn9s3.bkt.clouddn.com/Python_mobi.zip)
 
 ## 有趣的Android
+
+[CSDN里面的腾讯TBS的Demo](http://oqt1qixj1.bkt.clouddn.com/MyTBSDemo.zip)
+
 ~ ~ ~
 
 ## 让人崩溃的Java
@@ -15,6 +18,9 @@
 ## 一切能写的JavaScript
 ~~
 ## 开源API接口
+
+
+
 ~ ~ ~ ~
 ## 极客硬件Arduino
 ~
