@@ -8,7 +8,21 @@
 
 ## 有趣的Android
 
+### 项目
+
 [CSDN里面的腾讯TBS的Demo](http://oqt1qixj1.bkt.clouddn.com/MyTBSDemo.zip)
+
+### 书籍
+
+[《阿里巴巴Android开发手册》v1.0.1](http://oqt1qixj1.bkt.clouddn.com/Alibaba_Android_Book_V1.0.1.pdf)
+
+[《深入理解Android热修复技术原理》](http://oqt1qixj1.bkt.clouddn.com/Resources/BookAlibaba_Android_Book_HotFix.pdf)
+
+
+
+
+
+
 
 ~ ~ ~
 
